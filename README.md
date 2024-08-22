@@ -39,15 +39,3 @@ Jupyter Notebook: Para desenvolvimento interativo de código e análise.
 Matplotlib & Seaborn: Para visualização de dados.
 
 Streamlit: Para deploy do modelo como uma aplicação web.
-
-## Como Executar o Projeto:
-
-Rode o código .ipynb: Para que ele crie todos os arquivos necessários
-
-Clone o repositório: git clone https://github.com/seu-usuario/airbnb-text-prediction.git
-
-Instale as dependências necessárias: pip install -r requirements.txt
-
-Execute o notebook Jupyter para EDA e treinamento do modelo: jupyter notebook
-
-Inicie a aplicação web via Streamlit: streamlit run app.py
